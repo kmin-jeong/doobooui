@@ -1,0 +1,1 @@
+# rn 설치 및 탐색(android studio,node.js,python,chochlately?)
